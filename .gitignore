@@ -1,0 +1,5 @@
+#ignore env folder
+env/
+processed/
+text/
+.env
